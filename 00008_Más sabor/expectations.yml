@@ -1,0 +1,8 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: JuntarChips
+  inspection: UsesRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ServirChips
+  inspection: UsesRepeat

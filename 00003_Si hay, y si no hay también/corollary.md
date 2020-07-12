@@ -1,0 +1,1 @@
+¿Y qué pasó? :worried: ¿Se ejecutó algo? ¿Por qué no hizo BOOM? La respuesta es _sí, se ejecutó_; pero como no había ninguna bolita roja, simplemente no intentó sacar nada. :open_mouth: ¿Pero cómo lo supo? Te lo contamos en el próximo ejercicio. :grin:

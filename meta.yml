@@ -1,0 +1,23 @@
+---
+name: Hay palito bombón helado
+locale: es
+type: learning
+beta: false
+teacher_info: |-
+  A la hora de escribir un programa para resolver un problema podemos encontrarnos con algún tipo de variante que condiciona el desarrollo para darle solución.
+  Cuando los escenarios que nos presenta un problema varían, necesitamos algún tipo de herramienta para evaluar el contexto y tomar decisiones. La **alternativa condicional** se ocupa precisamente de esto. ¿Cómo lo hace? Primero evalúa el valor de verdad de una condición y, según esta condición se cumpla o no, realiza una acción determinada.
+language: gobstones
+id_format: "%05d"
+order:
+- 1
+- 2
+- 3
+- 4
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+private: false

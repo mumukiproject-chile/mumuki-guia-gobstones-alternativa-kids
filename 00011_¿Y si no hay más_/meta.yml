@@ -1,0 +1,14 @@
+---
+locale: es
+tags: []
+layout: input_kids
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: "Si nuestra condición evalúa que algo `no` ocurra tenemos que prestar
+  atención a cómo usar este operador: \n\n* ¿En qué casos la condición del ejemplo
+  es verdadera? ¿Y cuándo es falsa? \n* ¿En qué casos realizaré las acciones que se
+  encastran dentro del bloque `si`?"
+manual_evaluation: false
+choices: []
+name: "¿Y si no hay más?"

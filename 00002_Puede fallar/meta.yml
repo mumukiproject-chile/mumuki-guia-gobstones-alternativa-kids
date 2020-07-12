@@ -1,0 +1,17 @@
+---
+locale: es
+tags: []
+layout: input_kids
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: "Además de pensar bien el objetivo y nuestra estrategia de solución,
+  para entender mejor el problema muchas veces ejecutaremos programas con errores.
+  ¡No nos frustremos! Nos pueden a ayudar a ver qué entendimos mal, qué nos falta
+  resolver o qué cambios hacerle a nuestra estrategia. En este caso: \n\n* ¿Por qué
+  explota el programa? \n* ¿Tengo forma de sacar todas las bolitas rojas de un tablero
+  sin saber dónde estarán ubicadas? \n* ¿Un mismo programa me servirá de solución
+  para todas las distribuciones de bolitas que se presenten?"
+manual_evaluation: false
+choices: []
+name: Puede fallar

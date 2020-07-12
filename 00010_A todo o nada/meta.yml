@@ -1,0 +1,14 @@
+---
+locale: es
+tags: []
+layout: input_kids
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: "El uso de alternativas condicionales tiene que prestar especial atención
+  a los límites de lo que abarca su estructura de control: \n\n* ¿Cuál es la condición?
+  \ \n* ¿Cuáles son las acciones a realizar si se cumple? \n* ¿Hay instrucciones que
+  deben ejecutarse incluso cuando no se cumpla la condición?"
+manual_evaluation: false
+choices: []
+name: A todo o nada

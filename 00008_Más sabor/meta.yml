@@ -1,0 +1,13 @@
+---
+locale: es
+tags: []
+layout: input_kids
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: "La complejidad de este ejercicio se encuentra en que hay muchas tareas
+  por hacer: \n\n* ¿Definí bien cada procedimiento? \n* ¿Utilicé repeticiones donde
+  fue necesario? \n* ¿Cumplí el objetivo combinando todas las tareas?"
+manual_evaluation: false
+choices: []
+name: Más sabor

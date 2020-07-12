@@ -1,0 +1,16 @@
+---
+locale: es
+tags: []
+layout: input_kids
+editor: custom
+type: problem
+extra_visible: false
+teacher_info: "Para poder responder a los cambios de tableros, escenarios o contextos
+  que varían, surge la necesidad de una nueva estructura de control. Las alternativas
+  condicionales nos ayudarán en esta tarea: \n\n* ¿Qué es lo que cambia? \n* ¿Cuántas
+  variaciones hay? ¿Estoy considerando todas las posibles en mi solución? \n* ¿Qué
+  condición debo evaluar si se cumple? \n* ¿Qué acciones debo realizar cuándo la condición
+  sea verdadera?"
+manual_evaluation: false
+choices: []
+name: Si hay, y si no hay también
