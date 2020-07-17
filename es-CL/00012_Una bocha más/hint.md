@@ -1,0 +1,1 @@
+Por suerte, en esta heladería siempre hay helado de vainilla y de menta, así que podremos sacar sin preguntar si queda. Pero cuidado, porque tenemos que movernos hasta las bandejas de estos sabores.
