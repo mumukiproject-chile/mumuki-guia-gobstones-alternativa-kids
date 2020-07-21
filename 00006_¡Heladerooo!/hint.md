@@ -1,1 +1,1 @@
-La expresión `hay bolitas` podés encontrarla en _Condiciones_.
+La expresión `hay bolitas` la puedes encontrar en _Condiciones_.

@@ -1,1 +1,0 @@
-`hay bolitas` es una expresión que nos afirma o niega si hay bolitas del color que le pongamos. Recuerda que para ver los diferentes tableros tienes que apretar la flechita negra ► que tienen al lado. 

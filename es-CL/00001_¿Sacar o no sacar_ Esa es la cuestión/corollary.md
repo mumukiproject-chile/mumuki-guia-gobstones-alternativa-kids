@@ -1,1 +1,0 @@
-¡Excelente! Pudimos cumplir nuestro objetivo sin problemas. :smile:

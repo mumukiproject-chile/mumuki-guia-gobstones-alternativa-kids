@@ -1,1 +1,0 @@
-¡Excelente! Armaste un programa con condicional que funciona para cualquier tablero, sin importar que haya o no haya bolitas :smiley:. Ya podemos pasar a algo más divertido. :tada:
