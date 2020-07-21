@@ -1,0 +1,5 @@
+Durante toda la vida solemos tomar decisiones en distintas situaciones. De bebés :baby:, _si_ tenemos hambre lloramos para que nos den de comer :baby_bottle:. Un poco más grandes :girl::boy:, nos ponemos la campera _si_ sentimos frío :snowflake:, o nos la sacamos _cuando_ nos agarra calor :disappointed_relieved:. _Si_ nos aburrimos :weary:, jugamos a algo. :video_game:
+
+Pero en la programación… ¿también se pueden decidir cosas? :thought_balloon: Si en un casillero hay una bolita roja :red_circle:, una negra :black_circle:, y una azul :large_blue_circle:, y queremos completarlo para tener los 4 colores de _Gobstones_, tendríamos que agregar una verde. ¿Y eso cómo se hace? :sweat_smile:
+
+¡En esta lección te lo contamos! Vamos a jugar con el "futuro" :crystal_ball: y a decidir sobre él sin necesidad de conocerlo. :open_mouth:
