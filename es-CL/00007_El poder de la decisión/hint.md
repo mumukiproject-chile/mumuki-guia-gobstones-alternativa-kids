@@ -1,0 +1,1 @@
+Para `sacar helado de frutilla` , debemos `sacar` una bolita `roja`, y para `servir` tenemos que `poner` una `roja`; pero cuidado, porque deberemos hacerlo donde esté el vasito, así que antes tendremos que `movernos` hasta él. 
