@@ -1,1 +1,1 @@
-Recordá que para juntar _una vez_ chips del tarro, teníamos que `sacar 3` bolitas `azules`, y para servirlos sobre el helado debíamos `poner 3` bolitas `azules`. Y no te olvides que la estructura de control `repetir` nos puede simplificar muchos bloques. :wink:
+Recuerda que, para juntar chips del tarro _una vez_, teníamos que `sacar 3` bolitas `azules`, y para servirlos sobre el helado debíamos `poner 3` bolitas `azules`. Y no olvides que la estructura de control `repetir` nos puede simplificar muchos bloques. :wink:
