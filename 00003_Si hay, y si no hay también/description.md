@@ -1,4 +1,4 @@
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/toolbox.xml"> </gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/toolbox.xml"></gs-toolbox>
 
 En el ejercicio anterior nos preguntamos si siempre tendríamos que saber de antemano cómo sería el tablero para poder construir el programa y que funcione sin romperse. :flushed:
 

@@ -1,4 +1,4 @@
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/toolbox.xml"> </gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/toolbox.xml"></gs-toolbox>
 
 En el ejercicio anterior te dimos un programa que **sacaba** una bolita roja :red_circle: sólo **si había** bolitas rojas.  Y eso lo logramos con una nueva **estructura de control**: el **`si`** condicional. :smile:
 
