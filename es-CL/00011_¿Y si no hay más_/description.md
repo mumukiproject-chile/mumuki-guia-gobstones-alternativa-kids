@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json"> </gs-attire> <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/toolbox.xml"> </gs-toolbox>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json"></gs-attire> <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/toolbox.xml"></gs-toolbox>
 
 ¡Vamos muy bien! :relaxed: Ya sabemos un montón de cosas sobre servir helado y chips de chocolate cuando hay y no hacer nada cuando no hay. Pero nos gustaría poder elegir otro sabor cuando ya no queda de frutilla. :stuck_out_tongue_winking_eye:
 
