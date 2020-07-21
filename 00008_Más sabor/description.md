@@ -1,5 +1,5 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/attires/config.json"></gs-attire>
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/toolbox.xml"> </gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-alternativa-kids/master/assets/toolbox.xml"></gs-toolbox>
 
 ¡Muy bien! Ya sabemos sacar helado de las bandejas y servirlo en vasitos. Sería más rico si lo decoramos con chips de chocolate y salsas. :yum: ¡Probemos!
 
