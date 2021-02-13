@@ -1,0 +1,1 @@
+Acabamos de introducir otro bloque en la _condición_ del `si`: la **negación**, que sencillamente es la palabra `no`. :hushed: Así, cuando queramos hacer algo en caso de que `no haya` bolitas de cierto color, pondremos los bloques para que se lea eso. :sunglasses: Sigamos probándolo en el próximo ejercicio.
